@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(MainActivity.this, JogodaVelhaActivity.class));
             }
         });
-
+//testes commit
         botaoCriarPartida.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
