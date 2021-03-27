@@ -16,6 +16,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/joga_da_velha" />
+    //teste commit
 
     <TextView
         android:id="@+id/textJogadaVelha"

@@ -16,4 +16,7 @@ public class JogodaVelhaActivity extends AppCompatActivity {
         }
         catch(NullPointerException e){}
     }
+
+    //tested commit
+
 }

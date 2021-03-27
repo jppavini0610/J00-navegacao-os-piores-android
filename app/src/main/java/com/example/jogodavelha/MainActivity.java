@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
             this.getSupportActionBar().hide();
         }
         catch(NullPointerException e){}
+        //teste commit
 
 
         Button botaoJogar = findViewById(R.id.botton_jogar);
